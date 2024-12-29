@@ -14,6 +14,22 @@ Let’s connect and make something amazing together! 🌐
 - 🚀 Turning complex ideas into functional, user-focused solutions.
 - 📈 Learning and leveraging the latest technologies in software development.
 
+---
+
+### 🔧 My Toolbox
+Here are some of the technologies and tools I work with regularly:
+- **Languages**: Java, Python, SQL, C++, JavaScript  
+- **Frameworks**: React, Spring Boot, Node.js  
+- **Tools**: Git, Visual Studio Code, Figma, IntelliJ IDEA  
+
+---
+
+### 📚 Recent Projects
+- 🌐 **Website Development**: Currently creating a website for a client with a focus on user-centric design and functionality.
+- 🛠 **RESTful API Design**: Designed APIs for scalable backend systems using Java and Spring Boot.
+- 🤖 **Embedded Systems**: Developed projects combining Arduino and Processing for hands-on innovation.
+
+---
 
 📫 **How to Reach Me:**
 - 💼 [LinkedIn](https://linkedin.com/in/asif-rifat)  
