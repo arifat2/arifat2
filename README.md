@@ -19,16 +19,6 @@ Let’s connect and make something amazing together! 🌐
 ---
 
 ### 🔧 My Toolbox
-Here are some of the technologies and tools I work with regularly:
-- 💻 **Languages**: Java, Python, SQL, C++, JavaScript  
-- 🌐 **Frameworks**: React, Spring Boot, Node.js  
-- 🛠️ **Tools**: Git, Visual Studio Code, Figma, IntelliJ IDEA, Webflow 
-
----
-
-### 📫 How to Reach Me
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
