@@ -25,22 +25,6 @@ Here are some of the technologies and tools I work with regularly:
 - 🛠️ **Tools**: Git, Visual Studio Code, Figma, IntelliJ IDEA, Webflow 
 
 ---
-### 🌟 Recent Works
-
-Here are some of the projects and websites I've worked on:
-
-- [**Dolo Jewelry**](https://example-dolo.com)  
-  <sup>A modern, user-focused e-commerce platform for custom jewelry designs.</sup>  
-  <img src="https://via.placeholder.com/200" alt="Dolo Jewelry Preview" title="Hover to preview the website" width="300" style="border:1px solid #ddd; border-radius:4px; padding:5px;" />
-
-- [**LiveShield Security**](https://example-liveshield.com)  
-  <sup>A responsive and secure website for a cutting-edge security company.</sup>  
-  <img src="https://via.placeholder.com/200" alt="LiveShield Security Preview" title="Hover to preview the website" width="300" style="border:1px solid #ddd; border-radius:4px; padding:5px;" />
-
-- [**My Startup Website**](https://example-kodova.com)  
-  <sup>The official website for my startup, showcasing our projects and expertise.</sup>  
-  <img src="https://via.placeholder.com/200" alt="Kodova Website Preview" title="Hover to preview the website" width="300" style="border:1px solid #ddd; border-radius:4px; padding:5px;" />
----
 
 📫 **How to Reach Me:**
 - 💼 [LinkedIn](https://linkedin.com/in/asif-rifat)  
