@@ -26,6 +26,6 @@ Here are some of the technologies and tools I work with regularly:
 
 ---
 
-📫 **How to Reach Me:**
+### 📫 How to Reach Me
 - 💼 [LinkedIn](https://linkedin.com/in/asif-rifat)  
 - ✉️ Email: asifrifat010@gmail.com  
