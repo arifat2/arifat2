@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I’m Asif Rifat!
 
-<!--
-**arifat2/arifat2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a recent Computer Science graduate from the University of Illinois at Chicago, passionate about developing innovative software solutions and building scalable applications.
 
-Here are some ideas to get you started:
+💻 Proficient in Java, Python, SQL, and C++, I have honed my skills in web development, RESTful API design, and embedded systems through diverse projects and professional experiences. From leading technical projects at my startup Kodova to delivering lectures and mentoring students at UIC, I thrive in roles that blend technical expertise with creativity and collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 I’m driven by a desire to solve complex challenges, embrace new technologies, and build solutions that make a meaningful impact. Always eager to learn and grow, I’m ready to contribute to exciting projects in the tech industry.
+
+Let’s connect and make something amazing together! 🌐
+
+---
+
+💡 **What I’m Passionate About:**
+- 🚀 Turning complex ideas into functional, user-focused solutions.
+- 📈 Learning and leveraging the latest technologies in software development.
+
+📫 **How to Reach Me:**
+- 💼 [LinkedIn](https://linkedin.com/in/asif-rifat)  
+- ✉️ Email: asifrifat010@gmail.com  
